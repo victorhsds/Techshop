@@ -1,1 +1,1 @@
-# Techshop
+Catálogo de produtos.
