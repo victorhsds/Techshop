@@ -1,0 +1,155 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: rgb(248, 251, 250);
+     margin: 0;
+     padding: 0;
+}
+
+.menu {
+    width: 100%;
+    background: #ffffff;
+    box-shadow: 0px 4px 30px -10px rgba(0, 0, 0, 0.1);
+  }
+
+  .menu-flex {
+    display: flex;
+    align-items: center;
+  }
+
+  .logo {
+      margin-left:130px;
+
+  }
+
+  .menu-column {
+    display: flex;
+    align-items: center;
+    width: 50%;
+    justify-content: flex-start;
+  }
+
+  .menu-column.menu-second-column {
+    justify-content: flex-end;
+  }
+
+  .menu-nav ul {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    gap: 10px; 
+  }
+
+  .menu-nav ul li a {
+    margin-left: 46px;
+    text-decoration: none;
+    color: #585e65;
+  }
+
+  .menu-link-button {
+    text-decoration: none;
+    height: 48px;
+    background-color: #4c6ef5;
+    color: #fff;
+    padding: 0 32px;
+    margin-right: 148px;
+    display: flex;
+    align-items: center;
+    border-radius: 4px;
+  }
+
+  img {   
+    height: 56px;
+    width: 335px;
+    margin-top: 43px;
+    height: 207px;
+    width: 282px;
+    margin-left: 43px;
+    top: 157px;
+    border-radius: 0px;
+  }
+
+.descricao-produtos {
+  height: 56px;
+  width: 330px;
+  font-size: 16px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  margin-left: 21px;
+}
+
+.box {
+    border:  2px solid white;
+    background-color: #ffffff;
+    border-radius: 8px;
+    float: left;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 114px;
+    margin-left: 20px;
+    width: 374px;
+    height: 500px;
+   
+   
+}
+
+.valor-1 {
+  margin-top: 20px;
+  margin-bottom: 26px;
+  margin-left: 21px;
+  line-height: 28px;
+  font-weight: 600;
+}
+
+.button {
+  font-size: 16px;
+  font-weight: 200;
+  width: 335px;
+  height: 48px;
+  background-color: #4C6EF5;
+  color: #fff;
+  border-radius: 8px;
+  border: none;
+}
+
+.smartphone {
+  Width: 168px;
+  Height:168px;
+  margin: 43px 95px;
+
+}
+
+.fritadeira {
+
+width: 199px;
+height: 199px;
+left: 613px;
+top: 699px;
+margin: 27px 86px;
+
+}
+  
+.smart {
+  width: 237px;
+height: 237px;
+left: 22px;
+top: -15px;
+margin-top: 15px;
+margin-right: 69px;
+margin-left:68px ;
+
+}
+
+.cadeira {
+  width: 210px;
+  height: 210px;
+  left: 1394px;
+  top: 699px;
+  margin-right: 82px;
+  margin-left: 82px;
+  margin-top: 42px;
+}
+
+
+
